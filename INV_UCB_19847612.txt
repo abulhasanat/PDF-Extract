@@ -1,0 +1,3 @@
+Invoice n. ([0-9]+)
+Document date: (\d\d\s(?:January|February|March|April|May|June|July|August|September|October|November|December)\s\d{4})
+Total Net Value(\s[0-9\.\,]+)

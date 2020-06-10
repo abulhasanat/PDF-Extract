@@ -1,0 +1,3 @@
+Invoice Number ([0-9]+)
+AEE EE:\n((?:January|February|March|April|May|June|July|August|September|October|November|December) \d+,\s\d{4})
+Total Amount\s([0-9\.]+)
